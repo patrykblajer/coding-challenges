@@ -1,4 +1,4 @@
-package training;
+package codewars;
 
 import java.util.HashMap;
 import java.util.Map;

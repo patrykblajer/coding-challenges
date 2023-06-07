@@ -1,4 +1,4 @@
-package training;
+package codewars;
 
 class RemoveStringSpaces {
     public static void main(String[] args) {

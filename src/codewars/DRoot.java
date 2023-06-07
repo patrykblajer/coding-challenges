@@ -1,4 +1,4 @@
-package training;
+package codewars;
 
 class DRoot {
 

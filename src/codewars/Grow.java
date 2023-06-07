@@ -1,4 +1,4 @@
-package training;
+package codewars;
 
 class Grow {
     public static void main(String[] args) {
