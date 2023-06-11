@@ -1,4 +1,4 @@
-package codewars;
+package coderbyte;
 
 class LongestWord {
 

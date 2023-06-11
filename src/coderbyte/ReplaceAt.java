@@ -1,4 +1,4 @@
-package codewars;
+package coderbyte;
 
 class ReplaceAt {
     public static void main(String[] args) {
