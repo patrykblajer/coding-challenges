@@ -18,7 +18,7 @@ class QuestionMarks {
                     if (questionCount != 3) {
                         return "false";
                     }
-                    questionCount = 0; // Reset question count for the next pair
+                    questionCount = 0;
                 }
                 lastNum = num;
             } else if (c == '?') {

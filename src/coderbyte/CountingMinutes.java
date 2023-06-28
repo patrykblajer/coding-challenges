@@ -1,4 +1,4 @@
-package codewars;
+package coderbyte;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
